@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+/* 全局 */
+
+body {
+    background-color: #F5F5F5 !important;
+}
+
+.mui-bar-nav {
+    background-color: #FFF !important;
+}
+.mui-content {
+    background-color: #F5F5F5 !important;
+}
